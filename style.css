@@ -114,7 +114,7 @@ body {
 }
 
 .hero-img {
-    width: 30rem;
+    width: 20rem;
     align-content: center;
     /* background-image: url(img/glow\ night\ sky\ GIF\ by\ Erica\ Anderson.gif); */
     /* background-size: 120%; */
@@ -964,4 +964,5 @@ summary {
 
 .projectpage-sec {
     text-align: center;
+
 }
